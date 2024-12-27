@@ -1,0 +1,4 @@
+
+ this is write operation line using mode break
+ this is write operation line using mode break
+ this is write operation line using mode break = 'r 
